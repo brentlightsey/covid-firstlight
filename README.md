@@ -39,6 +39,8 @@ If I can help you with this report, or anything else, please feel free to reach 
 
 ![LinkedIn Logo](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)
 
+![FirstLight Analytics Logo](http://firstlightanalytics.com/wp-content/uploads/2020/04/IconTranspColor-12.png | width=100)
+
 
 
 
