@@ -37,7 +37,7 @@ I hope you find this report useful to make the best decisions for you, your love
 
 If I can help you with this report, or anything else, please feel free to reach out to me at [brent@flda.io](mailto:brent@flda.io), or find me [here on LinkedIn](https://www.linkedin.com/in/brentlightsey/) 
 
-![LinkedIn Logo](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)
+![LinkedIn Logo](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)<a href="http://firstlightanalytics.com"><img src="http://firstlightanalytics.com/wp-content/uploads/2020/04/IconTranspColor-12.png" width="90" /></a>
 
 ![FirstLight Analytics Logo](http://firstlightanalytics.com/wp-content/uploads/2020/04/IconTranspColor-12.png | width=100)
 
